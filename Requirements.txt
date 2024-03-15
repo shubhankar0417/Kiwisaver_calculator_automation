@@ -1,0 +1,12 @@
+## ------------------------------------------------------------------------------------------------------------------
+## Summary - This requirements.txt file can be used to download latest libraries required for running this framework.
+## File - Requirements.txt
+## Creator - Shubhankar Bhardwaj
+## Usage - pip install -r Requirements.txt
+## ------------------------------------------------------------------------------------------------------------------
+
+robotframework==6.1.1
+selenium==4.18.1
+robotframework-seleniumlibrary==6.2.0
+robotframework-selenium2library==3.0.0
+# robotframework-autoitlibrary~=1.2.7
